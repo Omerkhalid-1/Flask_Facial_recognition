@@ -83,9 +83,3 @@ face-recognition-auth/
 │── requirements.txt   # Required dependencies
 │── encodings.txt      # JSON file storing face encodings
 │── README.md          # Documentation
-
-
-
-
-
-
